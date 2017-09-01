@@ -1,5 +1,3 @@
-package cn.bdqn.util;
-
 import java.util.Comparator;
 
 // list排序实现Comparator接口,也就是定义排序规则,你几乎可以定义任何规则
