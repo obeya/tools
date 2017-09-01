@@ -1,4 +1,4 @@
-<<Android, Java 工具类>> --李锋
+<<Android, Java 工具类>>
     |
     |
     |--LogUtil.java   // 日志工具,控制日志是否打印
